@@ -1,12 +1,11 @@
 Test GitHub development apps
 ----------------------------
 
+|Travis Status| |CircleCI Status| |Coverage Status| |Documentation Status|
+
 .. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
-
-
-
 
 License
 -------
@@ -49,3 +48,23 @@ Note: This disclaimer was originally written by
 `PyCon talk <https://www.youtube.com/watch?v=6Uj746j9Heo>`_, and was adapted by
 GitHubApps based on its use in the README file for the
 `MetPy project <https://github.com/Unidata/MetPy>`_.
+
+.. |Astropy Badge| image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
+    :target: http://www.astropy.org
+    :alt: Powered by Astropy Badge
+
+.. |Travis Status| image:: https://travis-ci.org/rrjbca/GitHubApps.svg
+    :target: https://travis-ci.org/rrjbca/GitHubApps
+    :alt: Astropy's Travis CI Status
+
+.. |CircleCI Status| image:: https://circleci.com/gh/rrjbca/GitHubApps.svg?style=svg
+    :target: https://circleci.com/gh/rrjbca/GitHubApps
+    :alt: Astropy's CircleCI Status
+
+.. |Coverage Status| image:: https://codecov.io/gh/rrjbca/GitHubApps/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/rrjbca/GitHubApps
+    :alt: Astropy's Coverage Status
+
+.. |Documentation Status| image:: https://readthedocs.org/projects/githubapps/badge/?version=latest
+    :target: https://githubapps.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
