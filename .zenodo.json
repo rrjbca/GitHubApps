@@ -1,0 +1,38 @@
+{
+    "title": "GitHubApps",
+    "description": "Test GitHub development apps",
+    "license": "BSD-3-Clause",
+    "notes": "Test notes",
+    "grants": [
+        {
+            "id": "10.13039/501100000780::681431"
+        }
+    ],
+    "upload_type": "software",
+    "keywords": [
+        "Cosmology",
+        "GitHub"
+    ],
+    "creators": [
+        {
+            "name": "GitHubApps Collaboration"
+        }
+    ],
+    "contributors": [
+        {
+            "orcid": "0000-0003-1291-1023",
+            "affiliation": "University of Manchester",
+            "name": "Richard Rollins",
+            "type": "ProjectMember"
+        }
+
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.3755531",
+            "relation": "isVersionOf"
+        }
+    ]
+}
