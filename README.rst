@@ -1,5 +1,5 @@
-Test GitHub development apps
-----------------------------
+Test GitHub fast forward
+------------------------
 
 |Astropy Badge| |Travis Status| |CircleCI Status| |Coverage Status| |Documentation Status|
 
