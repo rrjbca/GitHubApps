@@ -1,5 +1,5 @@
-Test GitHub development apps
-----------------------------
+Test GitHub merge conflict
+--------------------------
 
 |Astropy Badge| |Travis Status| |CircleCI Status| |Coverage Status| |Documentation Status|
 
